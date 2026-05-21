@@ -1,6 +1,5 @@
 ## Hello 👋 I'm Aayushma Bastakoti
 
-<!--
 **aayushma-b/aayushma-b** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -12,4 +11,4 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me:aayushma.bastakoti@mnsu.edu/https://www.linkedin.com/in/aayushma-bastakoti-288ba92b9/
 - ⚡ Fun fact: I enjoy singing and I am planning to run a marathon soon
--->
+
