@@ -4,7 +4,6 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on various Machnine Learning and AI projects
-- 🌱 I’m currently learning how to integrate AI in Ml
 - 👯 I’m looking to collaborate on open source projects or on any creative ideas
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
