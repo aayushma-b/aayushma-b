@@ -1,7 +1,7 @@
 ## Hello 👋 I'm Aayushma Bastakoti
 
 
-Here are some ideas to get you started:
+
 
 - I’m currently working on various Machnine Learning and AI projects
 - I’m looking to collaborate on open source projects or on any creative ideas
